@@ -15,10 +15,15 @@ body {
 header {
 	color: blue;
     border: 25px ridge blue;
+    width: 200px;
 }
 
 footer {
 	font-style: italic;
 	font-size: 90%;
+}
+
+canvas {
+    padding: 20px;
 }
 
