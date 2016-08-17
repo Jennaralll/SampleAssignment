@@ -16,6 +16,8 @@ header {
 	color: blue;
     border: 25px ridge blue;
     width: 200px;
+    margin: auto;
+    text-align: center;
 }
 
 footer {
