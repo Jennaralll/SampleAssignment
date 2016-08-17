@@ -1,8 +1,8 @@
 
 body {
-    background-color: black;
+    background-color: white;
     color: rgb(0,0,0);
-    font-family: "Open Sans", sans-serif;
+    font-family: "Open Sans", bold;
     text-align: center;
 }
 
@@ -13,7 +13,8 @@ body {
 }
 
 header {
-	
+	color: blue;
+    border: 25px ridge blue;
 }
 
 footer {
